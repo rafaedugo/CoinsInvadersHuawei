@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f26f73769af0e7646852976091f7823e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 52619550720
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1633205264384
+    m_Localized: SCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1715094855680
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10209021829120
+    m_Localized: TRY AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9802367279104
+    m_Localized: CONTINUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11070884192256
+    m_Localized: PLAY AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12339724066816
+    m_Localized: < Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4738981163868160
+    m_Localized: EASY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4739052085354496
+    m_Localized: HARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17768526393548800
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17768633956474880
+    m_Localized: Move your phone accordingly to move to the desired direction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17768724012376064
+    m_Localized: Tap  the screen to Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27934749173391360
+    m_Localized: SCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35943889711833088
+    m_Localized: LOADING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123065962434830336
+    m_Localized: Where am I?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124675526100467712
+    m_Localized: Touch to Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129394501522767872
+    m_Localized: Latitude
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129394522821443584
+    m_Localized: Longitude
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453029423366144
+    m_Localized: Return rhe light to the worlds! Choose your favorite Auqui and help
+      god Wiraqocha to recover all the suns.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453100411961344
+    m_Localized: Walk through the Inca's spiritual realms with your favourite mythilogical
+      character. Collect all the coins and beat the best record!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453165675331584
+    m_Localized: Run, jump and collect coins! Help Yupi to get all the possible coins.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453235334332416
+    m_Localized: Enjoy a moment of healthy fun with the Sudoku game that the Netdreams
+      team uses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453314120138752
+    m_Localized: This curious and classic game will make you enjoy a wonderful experience
+      and get the best record!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453399348396032
+    m_Localized: Bim is a Mobile Wallet with which you carry your money using your
+      cell phone. Forget about long account numbers and using coins or bills, with
+      Bim, you save time and also take care of your economy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453720128765952
+    m_Localized: At Display Info you can find all the information on your Android
+      Device simply and quickly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130554856726806528
+    m_Localized: Networks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130554974871961600
+    m_Localized: Visit Facebook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130555104425623552
+    m_Localized: Visit Web
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130555173174460416
+    m_Localized: Visit Youtube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130555244414713856
+    m_Localized: "\r\xA9 2021 All rights reserved."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130557273283444736
+    m_Localized: Abous Us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130557477562826752
+    m_Localized: Other games from Netdreams
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130557599763873792
+    m_Localized: "\rComing Soon"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130557967017132032
+    m_Localized: "\rRecommended Apps"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

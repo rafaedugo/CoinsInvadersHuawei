@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: HelpTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: HelpTable
+  m_TableCollectionNameGuidString: 0db246f59c4b82d499fd5d5092489342
+  m_Entries:
+  - m_Id: 6482206720
+    m_Key: StoryTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69405155328
+    m_Key: Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590370022694912
+    m_Key: bitcoin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15591097839296512
+    m_Key: Etherium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592663145160704
+    m_Key: Tether
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15594816018489344
+    m_Key: Libra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15595553318412288
+    m_Key: 'Doge
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15620076730228736
+    m_Key: Fed
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1635872970630

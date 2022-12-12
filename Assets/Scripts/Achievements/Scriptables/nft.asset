@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7a010278eb7797448b8c3b01e334982, type: 3}
+  m_Name: nft
+  m_EditorClassIdentifier: 
+  title:
+  - You're a NFT
+  - Eres un NFT
+  decription:
+  - Get defeated for the first time
+  - Se derrotado por primera vez
+  imageMode:
+  - {fileID: 21300000, guid: e1520ef07cde9b14a9faf322621a622a, type: 3}
+  - {fileID: 21300000, guid: 679532795ae41e64c9874e960c92ac3d, type: 3}
+  - {fileID: 21300000, guid: 900beaa211405f740ada06f16700421c, type: 3}

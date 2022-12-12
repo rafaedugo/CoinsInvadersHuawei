@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5379a83be7b3ed54cb898d24b192725b
+  m_SerializeEntries:
+  - m_GUID: f26f73769af0e7646852976091f7823e
+    m_Address: Assets/Localization/Tables/UI Text Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 18ce50ff91c76234eab4177afe7c8cc8
+    m_Address: Assets/Localization/Tables/SettingsPanel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: aa54285675aeb5945b2289446ed843ec
+    m_Address: Assets/Localization/Tables/ScorePanel/ScoreTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 0db246f59c4b82d499fd5d5092489342
+    m_Address: Assets/Localization/Tables/HelpPanel/HelpTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 12ea3d0251a3b6441b28f1c17ea5255c
+    m_Address: Assets/Localization/Tables/CreditsTable/CreditsTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 0802b10f9f7a07f43b53a35f15b5e622
+    m_Address: Assets/Localization/Tables/CinematicsText/DialogueAnimations Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 460bdbf8956a3274399035b9ab979741
+    m_Address: Assets/Localization/Tables/LinksTables/LinksTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 5716c6a8f8b3fb8469fef9665ca2aac4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 563dee86273d6eb41ba3d58737d11165, type: 2}
+    - {fileID: 11400000, guid: 244351b0edfdaff4990bb29e830bfdb2, type: 2}

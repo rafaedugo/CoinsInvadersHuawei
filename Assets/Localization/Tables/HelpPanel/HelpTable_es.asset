@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HelpTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 0db246f59c4b82d499fd5d5092489342, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6482206720
+    m_Localized: HISTORIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69405155328
+    m_Localized: "Luego de la crisis del 2008, un usuario an\xF3nimo de Internet
+      que se identifica como Satoshi Nakamoto crea el Bitcoin como una nueva moneda,
+      un nuevo activo digital descentralizado dise\xF1ado para funcionar como medio
+      de intercambio que utiliza la criptograf\xEDa y la cadena de bloques (blockchain)
+      para controlar su creaci\xF3n y gesti\xF3n que no dependa del control de gobiernos
+      o bancos centrales, para ayudar a las personas a liberarse de la locura monetaria
+      de la FED. \r\n\r\nNace el Bitcoin como una moneda descentralizada, con transacciones
+      peer-to-peer para operar en el mundo entero. Una moneda segura y, para el horror
+      de los banqueros, inconfiscable por el Estado. En Internet empiezan a burlarse
+      de esta nueva moneda, llam\xE1ndola despectivamente, \"criptomoneda\", pero
+      muchos empiezan a ver su potencial y en el a\xF1o 2010 se produce el primer
+      intercambio conocido: Laszlo Hanyecz compr\xF3 dos pizzas por 10.000 bitcoins,
+      que en su momento equival\xEDa a 30 d\xF3lares. Es decir, que cada Bitcoin
+      equival\xEDa a 0,003 d\xF3lares. \r\n\r\nMuchas personas empiezan a apostar
+      por el Bitcoin y esto asusta a las distintas fuerzas manipuladoras del mundo.
+      Empiezan a crearse diferentes criptomonedas que se quieren aprovechar del prestigio
+      del Bitcoin para robarles la plata a las personas y, de paso, desprestigiar
+      al Bitcoin.\r\n\r\nEn el a\xF1o 2014, cuando el Bitcoin ya se intercambiaba
+      por 1,000 d\xF3lares, una fuerza del lado oscuro del mundo intenta pervertir
+      el Bitcoin creando una nueva moneda llamada Etherium. Aunque se basa tambi\xE9n
+      en la criptograf\xEDa y la cadena de bloques, muchas fuerzas oscuras controlan
+      esta moneda, ha dejado de ser 100% descentralizada y surgen cosas extra\xF1as
+      como los NFTs. Y empieza la primera pelea entre criptomonedas.\r\n\r\nPero
+      los grandes manipuladores del mercado monetario, los banqueros muy amigos de
+      la FED, no pod\xEDan dejar que las personas fueran libres otra vez gracias
+      al Bitcoin y conspiran creando un nuevo tipo de criptomoneda, ligado al valor
+      del d\xF3lar. Y as\xED surge Tether, una stablecoin cuyo valor est\xE1 ligado
+      al d\xF3lar. Es la criptomoneda m\xE1s cercana al dinero fiduciario, al d\xF3lar
+      que ha perdido el 90% de su valor en los \xFAltimos 50 a\xF1os, con la que
+      quieren confundir y enga\xF1ar a las personas de buena voluntad.\r\n\r\nAl
+      ser el tema de la criptograf\xEDa y la cadenas de bloques temas inform\xE1ticos,
+      las grandes empresas tecnol\xF3gicas del mundo se unen para intentar parar
+      al Bitcoin con una nueva alternativa manipuladora y en el a\xF1o 2019 entra
+      en la guerra de las criptomonedas Libra, la cripto de las tecnol\xF3gicas.
+      Aunque formalmente es una de las grandes tecnol\xF3gicas la que asume el liderazgo
+      de la moneda, seguro t\xFA tienes alguna de sus apps en tu smartphone, est\xE1n
+      todas las tecnol\xF3gicas involucradas. Todo vale en esta guerra con tal de
+      minar la confianza en el Bitcoin.\r\n\r\nPero en un mundo donde el dinero fiat
+      gobierna y las empresas unicornio florecen, los memes en redes sociales tienen
+      un poder muy grande en el mundo. Y un grande del mundo, con sue\xF1os de viajar
+      a otros mundos, aprovecha su conocimiento de este mundo meme para divertirse
+      promocionando una vieja criptomoneda que hab\xEDa sido lanzada en memes: Dogecoin.
+      Y con el poder del meme, se lanza a intentar conquistar el mundo y hacerse
+      millonario mediante esta criptomoneda.\r\n\r\nY as\xED surgen muchas otras
+      criptomonedas que entran en pelea cada a\xF1o y se lanzan varias decenas de
+      criptomonedas que intentan obtener el ahorro de las personas de bien que a\xFAn
+      pueden ahorrar. As\xED, el mundo se encuentra ahora invadido por much\xEDsimas
+      monedas, por muchas criptomonedas que luchan ferozmente para sobrevivir, que
+      intentan destruir al Bitcoin y aprovecharse del bien de la humanidad.\r\n\r\nCoins
+      Invaders nace en este formato, tributo al gran dise\xF1ador japon\xE9s Toshihiro
+      Nishikado y su afamado videojuego Space Invaders de 1978, para reflejar la
+      desigual pelea que tiene el Bitcoin con las otras criptomonedas que surgen
+      de fuerzas oscuras del mundo para pervertir a las personas de bien y mantenerlas
+      prisioneras en su comunista granja Orwelliana del dinero fiduciario. \r\n\r\nManeja
+      la nave que ser\xE1 la encargada de llevar al bitcoin a su gran victoria, no
+      dejes que los altcoins se interpongan en el camino, intentar\xE1n todo lo posible
+      para derrotarte y destruir la nave. Una nave que se encuentra protegido por
+      escudos de oro, la moneda f\xEDsica que ha ayudado a la humanidad en los \xFAltimos
+      5 mil a\xF1os, y donde podr\xE1s ver c\xF3mo se lanzan miles de millones de
+      d\xF3lares al mercado de monedas gracias a la expansi\xF3n cuantitativa de
+      la FED. \r\n\r\nSi crees en el \xE9xito del Bitcoin, puedes divertirte destruyendo
+      diversas altercoins en una guerra sin cuartel. \xA1Que gane la mejor criptomoneda!\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590370022694912
+    m_Localized: "Lleva la nave Bitcoin a su destino, evita los disparos y destruye
+      las naves de los enemigos. \xA1Destruye a los altcoins y domina el mundo de
+      las criptomonedas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15591097839296512
+    m_Localized: "No sigas perdiendo el tiempo, te daremos una oportunidad de ser
+      parte de esta revoluci\xF3n. Juntos podemos derrotar a todos y no solo hablo
+      de criptomonedas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592663145160704
+    m_Localized: "\xA1Oink, oink! Somos los due\xF1os del planeta, dominamos el dinero
+      por cientos de a\xF1os y lo ser\xE1 por mucho m\xE1s, no durar\xE1s mucho sin
+      nosotros. \xDAnete o solo ser\xE1 cuesti\xF3n de tiempo para que el Bitcoin
+      caiga como lo viene haciendo siempre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15594816018489344
+    m_Localized: "Somos responsables de lo grande que es hoy el mundo digital, y
+      no tenemos por qu\xE9 temer al Bitcoin. A diferencia del Bitcoin, nadie puede
+      reemplazarnos, estaremos aqu\xED por siempre.\r\n\xA1Somos el oro del futuro!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15595553318412288
+    m_Localized: "\xBFMoneda meme? Poco a poco el Bitcoin ser\xE1 parte del pasado,
+      muevo tendencias y tengo un look fenomenal. Ser\xE9 el que cause la destrucci\xF3n
+      del Bitcoin si no se quita del camino. \r\nAdem\xE1s todo mi poder se alimenta
+      a trav\xE9s de las torres de tesla, mi poder es infinito."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15620076730228736
+    m_Localized: "Yo soy el que respalda todas las economias del mundo, las monedas
+      dependen de mi para su existencia. El dolar no terminar\xE1 nunca su reinado
+      absoluto."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

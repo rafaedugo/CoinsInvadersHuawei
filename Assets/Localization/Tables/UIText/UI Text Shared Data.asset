@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: f26f73769af0e7646852976091f7823e
+  m_Entries:
+  - m_Id: 52619550720
+    m_Key: PlayText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1633205264384
+    m_Key: ScoreText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1715094855680
+    m_Key: QuitText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9802367279104
+    m_Key: ResumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10209021829120
+    m_Key: TryAgainText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11070884192256
+    m_Key: PlayAgainText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12339724066816
+    m_Key: BackText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4738981163868160
+    m_Key: EasyDiff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4739052085354496
+    m_Key: HardDiff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17768526393548800
+    m_Key: Controls1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17768633956474880
+    m_Key: Controls2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17768724012376064
+    m_Key: Controls3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27934749173391360
+    m_Key: Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35943889711833088
+    m_Key: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123065962434830336
+    m_Key: donde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124675526100467712
+    m_Key: TouchTo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129394501522767872
+    m_Key: Latitud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129394522821443584
+    m_Key: Longitud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453029423366144
+    m_Key: Suns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453100411961344
+    m_Key: Falling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453165675331584
+    m_Key: Yupi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453235334332416
+    m_Key: "Sudoku\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453314120138752
+    m_Key: Flappy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453399348396032
+    m_Key: Bim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130453720128765952
+    m_Key: Display Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130554856726806528
+    m_Key: Redes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130554974871961600
+    m_Key: FB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130555104425623552
+    m_Key: Web
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130555173174460416
+    m_Key: Ytb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130555244414713856
+    m_Key: Derechos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130557273283444736
+    m_Key: AboutUs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130557477562826752
+    m_Key: Othr Games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130557599763873792
+    m_Key: Prox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130557967017132032
+    m_Key: Recomend
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1635869257166

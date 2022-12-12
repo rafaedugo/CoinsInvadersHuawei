@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DialogueAnimations Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DialogueAnimations
+  m_TableCollectionNameGuidString: 0802b10f9f7a07f43b53a35f15b5e622
+  m_Entries:
+  - m_Id: 111210348544
+    m_Key: DodgeCoin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 570201423872
+    m_Key: BitCoin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 948053688320
+    m_Key: Silueta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1204879310848
+    m_Key: Etherium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1427043205120
+    m_Key: Misterioso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1625148571648
+    m_Key: Zucky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72337817288704
+    m_Key: Libra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72592931635200
+    m_Key: Banqueros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73099670667264
+    m_Key: Tether
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79985912528896
+    m_Key: Tesla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1289098986209280
+    m_Key: SiluetaName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1292453317918720
+    m_Key: BanquerosName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1293410856550400
+    m_Key: Mysterius Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1297101747601408
+    m_Key: TeslaName
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1663923935321

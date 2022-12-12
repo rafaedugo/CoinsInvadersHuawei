@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1241186079885964949
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1241186079885964950}
+  - component: {fileID: 1241186079885964951}
+  m_Layer: 0
+  m_Name: MusicAndSoundsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1241186079885964950
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241186079885964949}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1241186079885964951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241186079885964949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f317f9e153d5292499f1193f382dfd52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Enemy@Explo
+    audioClip: {fileID: 8300000, guid: 52c999275d3c7244f8830b25fbbeefe5, type: 3}
+    loop: 0
+    volume: 0.2
+    pitch: 1
+    audioSource: {fileID: 0}
+  - name: Player@Explo
+    audioClip: {fileID: 8300000, guid: ef8aacfe854c9df4e857ccc7f23fd2c3, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    audioSource: {fileID: 0}
+  - name: Helicoptero
+    audioClip: {fileID: 8300000, guid: 54ff3f6855603ee48acc0f47466c4b48, type: 3}
+    loop: 1
+    volume: 0.5
+    pitch: 1
+    audioSource: {fileID: 0}
+  - name: Buttons
+    audioClip: {fileID: 8300000, guid: 54d2368f8dad35d44aeb51f7fa86dec4, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+    audioSource: {fileID: 0}
+  - name: PlayerLaser
+    audioClip: {fileID: 8300000, guid: 9dfc11647c604f541a9042672eb63b7e, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+    audioSource: {fileID: 0}
+  - name: EnemyLaser
+    audioClip: {fileID: 8300000, guid: b0a55ccc639c1b844b76f29fda414105, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+    audioSource: {fileID: 0}
+  music:
+  - name: MenuTheme
+    audioClip: {fileID: 8300000, guid: bc40139595570674e8233e130dd26dc7, type: 3}
+    loop: 1
+    volume: 0.2
+    pitch: 1
+    audioSource: {fileID: 0}
+  - name: GameplayTheme
+    audioClip: {fileID: 8300000, guid: 0f5e074316cf0c3418befea395ab8f96, type: 3}
+    loop: 1
+    volume: 0.2
+    pitch: 1
+    audioSource: {fileID: 0}
+  - name: FedTheme
+    audioClip: {fileID: 8300000, guid: 9b8e6290a0f2b964b984e7cd1124f354, type: 3}
+    loop: 1
+    volume: 0.5
+    pitch: 1
+    audioSource: {fileID: 0}
+  musicMixer: {fileID: 24300002, guid: a698580f3f401a542a01ea4b7bb6bddb, type: 2}
+  soundMixer: {fileID: 24300002, guid: e214eed72ce4c314e8e48c3837f1eb66, type: 2}

@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HelpTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0db246f59c4b82d499fd5d5092489342, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6482206720
+    m_Localized: STORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69405155328
+    m_Localized: "After the 2008 crisis, an anonymous Internet user who identifies
+      himself as Satoshi Nakamoto created Bitcoin as a new currency, a new decentralized
+      digital asset designed to function as a medium of exchange that uses cryptography
+      and the blockchain to control its creation and management that does not depend
+      on the control of governments or central banks, to help people break free from
+      the monetary madness of the Fed.\r\n\r\nBitcoin was born as a decentralized
+      currency, with peer-to-peer transactions to operate throughout the world. A
+      safe currency and, to the horror of the bankers, unconfiscable by the state.
+      On the Internet they begin to make fun of this new currency, disparagingly
+      calling it, \"cryptocurrency\", but many begin to see its potential and in
+      2010 the first known exchange takes place: Laszlo Hanyecz bought two pizzas
+      for 10,000 bitcoins, which at the time was equivalent at $ 30. That is, each
+      Bitcoin was equal to $ 0.003.\r\n\r\nMany people start betting on Bitcoin and
+      this scares the various manipulative forces in the world. Different cryptocurrencies
+      are beginning to be created that want to take advantage of the prestige of
+      Bitcoin to steal people's money and, incidentally, discredit Bitcoin.\r\n\r\nIn
+      2014, when Bitcoin was already being exchanged for $ 1,000, a force from the
+      dark side of the world tried to pervert Bitcoin by creating a new currency
+      called Etherium. Although it is also based on cryptography and blockchain,
+      many dark forces control this currency, it is no longer 100% decentralized
+      and strange things come up like NFTs. And the first fight between cryptocurrencies
+      begins.\r\n\r\nBut the great manipulators of the money market, the bankers
+      very friendly to the FED, could not let people go free again thanks to Bitcoin
+      and conspired to create a new type of cryptocurrency, linked to the value of
+      the dollar. And so Tether arises, a stable-coin whose value is linked to the
+      dollar. It is the closest cryptocurrency to fiat money, to the dollar that
+      has lost 90% of its value in the last 50 years, with which they want to confuse
+      and deceive people of good will.\r\n\r\nAs the subject of cryptography and
+      blockchain is computer science, the world's large technology companies unite
+      to try to stop Bitcoin with a new manipulative alternative and in 2019, Libra,
+      the cryptocurrency of the technological ones. Although formally it is one of
+      the great technologies that assumes the leadership of the currency, surely
+      you have some of its apps on your smartphone, all the technologies are involved.
+      Anything goes in this war to undermine trust in Bitcoin.\r\n\r\nBut in a world
+      where fiat money rules and unicorn companies flourish, social media memes have
+      great power in the world. And a great of the world, with dreams of traveling
+      to other worlds, takes advantage of his knowledge of this meme world to have
+      fun promoting an old cryptocurrency that had been launched in memes: Dogecoin.
+      And with the power of the meme, he sets out to try to conquer the world and
+      become a millionaire through this cryptocurrency.\r\n\r\nAnd so there are many
+      other cryptocurrencies that enter into a fight every year and several dozen
+      cryptocurrencies are launched that try to obtain the savings of the good people
+      who can still save. Thus, the world is now invaded by many currencies, by many
+      cryptocurrencies that fight fiercely to survive, that try to destroy Bitcoin
+      and take advantage of the good of humanity.\r\n\r\nCoins Invaders was born
+      in this format, a tribute to the great Japanese designer Toshihiro Nishikado
+      and his famous video game Space Invaders from 1978, to reflect the unequal
+      fight that Bitcoin has with other cryptocurrencies that arise from dark forces
+      in the world to pervert good people and keep them prisoners on his communist
+      Orwellian fiat money farm.\r\n\r\nDrive the ship that will be in charge of
+      taking bitcoin to its great victory, don't let the altcoins get in the way,
+      they will try everything possible to defeat you and destroy the ship. A ship
+      that is protected by gold shields, the physical currency that has helped humanity
+      in the last 5 thousand years, and where you can see how billions of dollars
+      are thrown into the currency market thanks to the quantitative expansion of
+      the FED.\r\n\r\nIf you believe in the success of Bitcoin, you can have fun
+      destroying various altercoins in an all-out war. May the best cryptocurrency
+      win!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590370022694912
+    m_Localized: 'Lead Bitcoin ship to its destiny, avoid shots and destroy enemy
+      ships.
+
+      Destroy altcoins and dominate the cryptocurrency world!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15591097839296512
+    m_Localized: 'Don''t waste your time anymore, we will give you an opportunity
+      to be part of the revolution.
+
+      Together we can destroy everyone and I
+      don''t only talk about cryptocurrency.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592663145160704
+    m_Localized: Oink! Oink! We rule the world, we've dominated money for hundreds
+      of years and we'll dominate for many more, you won't last longer without us.
+      Join us or it will be a matter of time for Bitcoin to fall again as it's always
+      done.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15594816018489344
+    m_Localized: 'We are responsible of how big is the digital world today, we don''t
+      have anything to fear Bitcoin. No one can replace us, we''ll be here forever.
+
+      We
+      are the gold of the future!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15595553318412288
+    m_Localized: Meme coin? Little by little Bitcoin will be part of the past, I
+      move trends and have a phenomenal look. I will be the one who cause the Bitcoin
+      destruction if it doesn't move apart. My power is fed by tesla towers, my power
+      is infinite.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15620076730228736
+    m_Localized: I am the backup for all the economies of the world, the currencies
+      depend on me for their existence. The dollar will never end its absolute reign.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

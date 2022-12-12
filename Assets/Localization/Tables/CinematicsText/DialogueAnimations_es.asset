@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DialogueAnimations_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 0802b10f9f7a07f43b53a35f15b5e622, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 111210348544
+    m_Localized: "\xBFTe gustan los perritos?\xBFA que soy adorable como criptomoneda?
+      \xA1Qu\xE9 memes tan divertidos hacen de m\xED! Soy la altcoin creada como
+      broma, muy divertida y amigable para robar a los m\xE1s j\xF3venes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 570201423872
+    m_Localized: "Todos quieren destruirme porque soy la cripto que lucha contra
+      la tirania monetaria de los bancos centrales y oligopolios. No dejes que las
+      altcoins destruyan nuestra nave. \xA1Disfruta haciendo a\xF1icos a las altcoins
+      y domina el mundo de las criptomonedas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 948053688320
+    m_Localized: "Hay que pervertir el concepto de criptomonedas para que no sea
+      descentralizada sin que lo parezca, \xA1sino no podremos robar el dinero a
+      la gente! Habr\xE1 que a\xF1adirle cosas diab\xF3licas como los NFTs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1204879310848
+    m_Localized: "Deja de ser una criptomoneda buena. Vamos a pervertir la percepci\xF3n
+      de las criptos con los NFTs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1427043205120
+    m_Localized: "\xBFLlegaste hasta aqu\xED? Dejame decirte que a partir de ahora
+      no ser\xE1 nada f\xE1cil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1625148571648
+    m_Localized: 'Controlamos el mundo digital, censuramos lo que queremos. No vamos
+      a dejar que tu libertad domine el ciberespacio. Las Big Tech nos uniremos para
+      lucrar con las criptomonedas.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72337817288704
+    m_Localized: "Triunfaremos en el metaverso con nuestra criptomoneda zodiacal.
+      \xA1La balanza se inclinar\xE1 a favor de la Big Tech!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72592931635200
+    m_Localized: "\xA1Oink, oink! \xBFCrees que vas a poder destruir el dinero fiat
+      ahora que lo hemos implantado en el mundo? \xA1No te dejaremos hacerlo! Empezamos
+      la destrucci\xF3n del d\xF3lar en la Isla de Jekyll, podremos contigo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73099670667264
+    m_Localized: "Soy una stable coin y mi misi\xF3n es robarle el dinero del mundo
+      digital al igual que lo hacemos con las monedas fiat. \xA1Rindete Bitcoin!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79985912528896
+    m_Localized: Llegamos tarde al Bitcoin. Busquemos una moneda que nos sirva para
+      crear memes que pueda impulsar con el poder de los memes y mis Teslas para
+      tobarles el dinero a los millenials y centennials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1289098986209280
+    m_Localized: SILUETA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1292453317918720
+    m_Localized: BANQUEROS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1293410856550400
+    m_Localized: M
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1297101747601408
+    m_Localized: BOBINAS TESLA
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
